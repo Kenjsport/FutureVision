@@ -1,0 +1,74 @@
+{
+  "app": {
+    "title": "Ապագայի Սիմուլյատոր",
+    "greeting": "Ողջույն, {{name}}! Բացահայտիր քո ապագան"
+  },
+  "navigation": {
+    "home": "Գլխավոր",
+    "history": "Պատմություն",
+    "logout": "Ելք"
+  },
+  "landing": {
+    "title": "Ապագայի Սիմուլյատոր",
+    "subtitle": "Պարզիր, թե որտեղ կտանի քո հմտությունը",
+    "login": "Մուտք",
+    "register": "Ստեղծել հաշիվ",
+    "continueWithoutRegistration": "Շարունակել առանց գրանցման"
+  },
+  "form": {
+    "skillOrProject": "Քո հմտությունը կամ նախագիծը",
+    "skillPlaceholder": "Օրինակ: Python ծրագրավորում, AI/ML, վեբ դիզայն...",
+    "currentLevel": "Ընթացիկ մակարդակ",
+    "beginner": "Սկսնակ",
+    "intermediate": "Միջին",
+    "advanced": "Ընդլայնված",
+    "test": "Տեստ",
+    "timeHorizon": "Ժամանակային հորիզոն",
+    "months": "{{count}} ամիս",
+    "months_plural": "{{count}} ամիս",
+    "years": "{{count}} տարի",
+    "years_plural": "{{count}} տարի",
+    "showFuture": "Ցույց տալ իմ ապագան",
+    "lookingIntoFuture": "Նայում եմ ապագային..."
+  },
+  "errors": {
+    "enterSkill": "Խնդրում ենք մուտքագրել հմտություն կամ նախագիծ",
+    "rudeWord": "Կոպիտ բառ հայտնաբերված!!",
+    "connectionError": "Չհաջողվեց միանալ պրոքսի սերվերին: Համոզվեք, որ \"node server.js\"-ը գործարկված է:",
+    "apiError": "Սխալ: {{message}}"
+  },
+  "history": {
+    "title": "Կանխատեսումների Պատմություն",
+    "loading": "Բեռնվում է պատմությունը...",
+    "noPredictions": "Դեռ կանխատեսումներ չկան",
+    "startCreating": "Սկսեք ձեր առաջին կանխատեսումը ստեղծելով!",
+    "selected": "Ընտրված է {{count}} կանխատեսում",
+    "selected_plural": "Ընտրված են {{count}} կանխատեսումներ",
+    "compare": "Համեմատել",
+    "view": "Դիտել",
+    "progress": "Առաջընթաց",
+    "milestones": "{{completed}}/{{total}} փուլեր",
+    "deleteConfirm": "Համոզվա՞ծ եք, որ ցանկանում եք ջնջել այս կանխատեսումը:",
+    "timeframe": "{{timeframe}} {{unit}}"
+  },
+  "comparison": {
+    "title": "Կանխատեսումների Համեմատություն",
+    "loading": "Բեռնվում է համեմատությունը...",
+    "needTwo": "Համեմատության համար անհրաժեշտ է առնվազն 2 կանխատեսում",
+    "milestones": "{{count}} փուլ",
+    "milestones_plural": "{{count}} փուլեր",
+    "milestonesTitle": "Փուլերի Համեմատություն",
+    "period": "ժամանակաշրջան"
+  },
+  "export": {
+    "share": "Արտահանել և Կիսվել",
+    "export": "Արտահանում",
+    "pdf": "Արտահանել PDF",
+    "markdown": "Արտահանել Markdown",
+    "shareLink": "Կիսվելու Հղում",
+    "copy": "Պատճենել",
+    "copied": "Պատճենված է!",
+    "socialMedia": "Կիսվել Սոցիալական Ցանցերում"
+  }
+}
+

@@ -1,0 +1,74 @@
+{
+  "app": {
+    "title": "Future Simulator",
+    "greeting": "Hi, {{name}}! Discover your future"
+  },
+  "navigation": {
+    "home": "Home",
+    "history": "History",
+    "logout": "Logout"
+  },
+  "landing": {
+    "title": "Future Simulator",
+    "subtitle": "Find out where your skill will lead you",
+    "login": "Log In",
+    "register": "Create Account",
+    "continueWithoutRegistration": "Continue without registration"
+  },
+  "form": {
+    "skillOrProject": "Your skill or project",
+    "skillPlaceholder": "Example: Python development, AI/ML, web design...",
+    "currentLevel": "Current Level",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced",
+    "test": "Test",
+    "timeHorizon": "Time Horizon",
+    "months": "{{count}} month",
+    "months_plural": "{{count}} months",
+    "years": "{{count}} year",
+    "years_plural": "{{count}} years",
+    "showFuture": "Show my future",
+    "lookingIntoFuture": "Looking into the future..."
+  },
+  "errors": {
+    "enterSkill": "Please enter a skill or project",
+    "rudeWord": "Rude word detected!!",
+    "connectionError": "Could not connect to proxy server. Make sure \"node server.js\" is running.",
+    "apiError": "Error: {{message}}"
+  },
+  "history": {
+    "title": "Prediction History",
+    "loading": "Loading history...",
+    "noPredictions": "No predictions yet",
+    "startCreating": "Start by creating your first prediction!",
+    "selected": "{{count}} prediction selected",
+    "selected_plural": "{{count}} predictions selected",
+    "compare": "Compare",
+    "view": "View",
+    "progress": "Progress",
+    "milestones": "{{completed}}/{{total}} milestones",
+    "deleteConfirm": "Are you sure you want to delete this prediction?",
+    "timeframe": "{{timeframe}} {{unit}}"
+  },
+  "comparison": {
+    "title": "Compare Predictions",
+    "loading": "Loading comparison...",
+    "needTwo": "Need at least 2 predictions to compare",
+    "milestones": "{{count}} milestone",
+    "milestones_plural": "{{count}} milestones",
+    "milestonesTitle": "Milestones Comparison",
+    "period": "Period"
+  },
+  "export": {
+    "share": "Export & Share",
+    "export": "Export",
+    "pdf": "Export PDF",
+    "markdown": "Export Markdown",
+    "shareLink": "Share Link",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "socialMedia": "Share on Social Media"
+  }
+}
+

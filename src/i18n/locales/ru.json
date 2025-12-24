@@ -1,0 +1,78 @@
+{
+  "app": {
+    "title": "Симулятор Будущего",
+    "greeting": "Привет, {{name}}! Открой свое будущее"
+  },
+  "navigation": {
+    "home": "Главная",
+    "history": "История",
+    "logout": "Выйти"
+  },
+  "landing": {
+    "title": "Симулятор Будущего",
+    "subtitle": "Узнай, куда приведет тебя твой навык",
+    "login": "Войти",
+    "register": "Создать аккаунт",
+    "continueWithoutRegistration": "Продолжить без регистрации"
+  },
+  "form": {
+    "skillOrProject": "Ваш навык или проект",
+    "skillPlaceholder": "Пример: разработка на Python, AI/ML, веб-дизайн...",
+    "currentLevel": "Текущий уровень",
+    "beginner": "Начинающий",
+    "intermediate": "Средний",
+    "advanced": "Продвинутый",
+    "test": "Тест",
+    "timeHorizon": "Временной горизонт",
+    "months": "{{count}} месяц",
+    "months_plural": "{{count}} месяца",
+    "months_plural_2": "{{count}} месяцев",
+    "years": "{{count}} год",
+    "years_plural": "{{count}} года",
+    "years_plural_2": "{{count}} лет",
+    "showFuture": "Показать мое будущее",
+    "lookingIntoFuture": "Заглядываю в будущее..."
+  },
+  "errors": {
+    "enterSkill": "Пожалуйста, введите навык или проект",
+    "rudeWord": "Обнаружено грубое слово!!",
+    "connectionError": "Не удалось подключиться к прокси-серверу. Убедитесь, что \"node server.js\" запущен.",
+    "apiError": "Ошибка: {{message}}"
+  },
+  "history": {
+    "title": "История Прогнозов",
+    "loading": "Загрузка истории...",
+    "noPredictions": "Пока нет прогнозов",
+    "startCreating": "Начните с создания вашего первого прогноза!",
+    "selected": "Выбран {{count}} прогноз",
+    "selected_plural": "Выбрано {{count}} прогнозов",
+    "selected_plural_2": "Выбрано {{count}} прогноза",
+    "compare": "Сравнить",
+    "view": "Просмотр",
+    "progress": "Прогресс",
+    "milestones": "{{completed}}/{{total}} этапов",
+    "deleteConfirm": "Вы уверены, что хотите удалить этот прогноз?",
+    "timeframe": "{{timeframe}} {{unit}}"
+  },
+  "comparison": {
+    "title": "Сравнение Прогнозов",
+    "loading": "Загрузка сравнения...",
+    "needTwo": "Нужно как минимум 2 прогноза для сравнения",
+    "milestones": "{{count}} этап",
+    "milestones_plural": "{{count}} этапов",
+    "milestones_plural_2": "{{count}} этапа",
+    "milestonesTitle": "Сравнение Этапов",
+    "period": "Период"
+  },
+  "export": {
+    "share": "Экспорт и Поделиться",
+    "export": "Экспорт",
+    "pdf": "Экспорт PDF",
+    "markdown": "Экспорт Markdown",
+    "shareLink": "Ссылка для Поделиться",
+    "copy": "Копировать",
+    "copied": "Скопировано!",
+    "socialMedia": "Поделиться в Социальных Сетях"
+  }
+}
+
